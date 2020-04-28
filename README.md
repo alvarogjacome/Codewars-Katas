@@ -1,7 +1,7 @@
 # Codewars-Katas
 Solved katas from codewars
 
-[![alvarogjacome][1]][2]
+[![codewars][1]][2]
 
 [1]:  https://www.codewars.com/users/alvarogjacome/badges/large
 [2]:  https://www.codewars.com/users/alvarogjacome "Go to profile"
