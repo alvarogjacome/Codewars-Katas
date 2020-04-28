@@ -1,4 +1,4 @@
-# Codewars-Katas
+# Codewars Katas
 Solved katas from codewars
 
 [![codewars][1]][2]
