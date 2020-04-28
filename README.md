@@ -28,6 +28,8 @@ Solved katas from codewars
 
 ### 6 kyu
 
+* Sum of digits - [Code solution](https://gist.github.com/alvarogjacome/1932ce690da0cb5735b92529f7fe4d58) - [Kata description](https://www.codewars.com/kata/541c8630095125aba6000c00)
+
 * Find The Parity Outlier - [Code solution](https://gist.github.com/alvarogjacome/31b4bd3f253a31e012c82ec6d5aea8bf) - [Kata description](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 
 * Multiples of 3 or 5 - [Code solution](https://gist.github.com/alvarogjacome/bae9719efa64e9019768730cc566c274) - [Kata description](https://www.codewars.com/kata/514b92a657cdc65150000006)
