@@ -36,7 +36,4 @@ Solved katas from codewars
 
 * If you can read this - [Code solution](https://gist.github.com/alvarogjacome/19c6d303bf78b5fc9c6f5932dcb50416) - [Kata description](https://www.codewars.com/kata/586538146b56991861000293)
 
-* Counting duplicates - [Code solution](https://gist.github.com/alvarogjacome/92f48b40159a6a86c991272383092aca) - <a href="https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1" target="_blank">Kata description</a>
-
-
-### 7 kyu
+* Counting duplicates - [Code solution](https://gist.github.com/alvarogjacome/92f48b40159a6a86c991272383092aca) - [Kata description](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
