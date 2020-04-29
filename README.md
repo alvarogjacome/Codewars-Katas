@@ -28,6 +28,8 @@ Solved katas from codewars
 
 ### 6 kyu
 
+* Tribonacci Sequence - [Code solution](https://gist.github.com/alvarogjacome/fcb2d283efd15985ebedfce725b90fc8) - [Kata description](https://www.codewars.com/kata/556deca17c58da83c00002db)
+
 * Persisten bugger - [Code solution](https://gist.github.com/alvarogjacome/30b9ffca2ac695de769177faef4d9bb4) - [Kata description](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 
 * Sum of digits - [Code solution](https://gist.github.com/alvarogjacome/1932ce690da0cb5735b92529f7fe4d58) - [Kata description](https://www.codewars.com/kata/541c8630095125aba6000c00)
