@@ -1,5 +1,6 @@
+![Swift 5.0+](https://img.shields.io/badge/Swift-5.0%2B-orange)
+
 # Codewars Katas
-Solved katas from codewars
 
 [![codewars][1]][2]
 
